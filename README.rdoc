@@ -1,11 +1,13 @@
-# todo_pomodoro! #
+# todo_pomodoro!
 
-## overview ##
+## overview
+
 todo_pomodoro is todo list with the pomodoro workflow built in!
 
 manage your todos, focus on one at a time for 25 minute intervals, and track your progress!
 
-## pomodoro technique ##
+## pomodoro technique
+
 pomodoro is an awesome workflow to get things done.
 
 step 1: set a timer for 25 minutes
