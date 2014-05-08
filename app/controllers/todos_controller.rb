@@ -15,15 +15,21 @@ class TodosController < ApplicationController
   # GET /todos/new
   def new
     @todo = Todo.new
+    @authors = Author.all
+    @projects = Project.all
   end
 
   # GET /todos/1/edit
   def edit
+    @authors = Author.all
+    @projects = Project.all
   end
 
   # POST /todos
   # POST /todos.json
   def create
+    @authors = Author.all
+    @projects = Project.all
     @todo = Todo.new(todo_params)
 
     respond_to do |format|
