@@ -1,28 +1,13 @@
-== README
+todo_pomodoro!
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+todo_pomodoro is todo list with the pomodoro workflow built in!
 
-Things you may want to cover:
+manage your todos, focus on one at a time for 25 minute intervals, and track your progress!
 
-* Ruby version
+pomodoro is an awesome workflow to get things done.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+step 1: set a timer for 25 minutes
+step 2: focus on one task for that time
+step 3: get as far as you can
+step 4: when the timer goes off take a 5 minute break
+step 5: repeate.
